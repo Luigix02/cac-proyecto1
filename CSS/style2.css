@@ -1,0 +1,48 @@
+/* SELECTO POR ETIQUETA */
+h1 {
+    color: red;
+}
+
+h2 {
+    color: blue;
+}
+
+/* SELECTO POR ID */
+
+#articulo-primario {
+
+    text-align: justify;
+    background-color: aquamarine;
+    width: 300px
+    ;
+}
+
+/* SELECTOR POR CLASS */
+
+.marco {
+    border: 1px solid black;
+}
+
+[type='text'] {
+    background-color: lightblue;
+    color: white;
+}
+
+.highlight{
+    color: red;
+}
+
+.mi-div {
+    width: 500px;
+    height: 500px;
+    background-image: url("../IMG/BEAUTIFY_logo_jpg_alta-01.jpg");
+    background-size: contain;
+  }
+
+  figure {
+    width: 200px;
+  }
+
+/* div {
+    width: 200px;
+} */
